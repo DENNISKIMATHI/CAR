@@ -1,0 +1,3 @@
+?<php
+require '../le_functions/sessions.php';
+require '../le_functions/functions.php';
